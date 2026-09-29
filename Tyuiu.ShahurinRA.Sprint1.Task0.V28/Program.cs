@@ -1,6 +1,6 @@
-﻿using Tyuiu.ShahurinRA.Sprint1.Task1.V0.Lib;
+﻿using Tyuiu.ShahurinRA.Sprint1.Task0.V28.Lib;
 
-namespace Tyuiu.ShahurinRA.Sprint1.Task1.V0
+namespace Tyuiu.ShahurinRA.Sprint1.Task0.V28
 {
     class Program
     {

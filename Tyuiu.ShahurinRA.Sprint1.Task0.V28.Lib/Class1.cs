@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.ShahurinRA.Sprint1.Task1.V0.Lib
+﻿namespace Tyuiu.ShahurinRA.Sprint1.Task0.V28.Lib
 {
     public class Class1
     {

@@ -12,7 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ShahurinRA.Sprint1.Task0.V0.Lib\Tyuiu.ShahurinRA.Sprint1.Task0.V0.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.ShahurinRA.Sprint1.Task0.V0.Lib\Tyuiu.ShahurinRA.Sprint1.Task0.V28.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.ShahurinRA.Sprint1.Task0.V28.Lib\Tyuiu.ShahurinRA.Sprint1.Task0.V28.Lib.csproj" />
   </ItemGroup>
 
   <ItemGroup>
