@@ -8,7 +8,7 @@ namespace Tyuiu.ShahurinRA.Sprint1.Task0.V28.Test
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(2, Class1.Otvet());
+            Assert.AreEqual(2, ShahurinRATask0V28.Otvet());
         }
     }
 }
