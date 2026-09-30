@@ -21,7 +21,9 @@ namespace Tyuiu.ShahurinRA.Sprint1.Task0.V28
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                            *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("48/12-48/6/4 = " + ISprint1Task0V28.Otvet());
+            DataService ds = new DataService();
+
+            Console.WriteLine("48/12-48/6/4 = " + ds.Calculate(0));
         }
     }
 }

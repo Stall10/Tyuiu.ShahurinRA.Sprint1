@@ -8,7 +8,9 @@ namespace Tyuiu.ShahurinRA.Sprint1.Task0.V28.Test
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(2, ISprint1Task0V28.Otvet());
+            DataService ds = new DataService();
+            var res = ds.Calculate(0);
+            Assert.AreEqual(2, res);
         }
     }
 }
