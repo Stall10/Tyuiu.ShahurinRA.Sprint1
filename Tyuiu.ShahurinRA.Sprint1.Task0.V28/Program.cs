@@ -23,7 +23,7 @@ namespace Tyuiu.ShahurinRA.Sprint1.Task0.V28
             Console.WriteLine("***************************************************************************");
             DataService ds = new DataService();
 
-            Console.WriteLine("48/12-48/6/4 = " + ds.Calculate(0));
+            Console.WriteLine("48/12-48/6/4 = " + ds.Calculate());
         }
     }
 }

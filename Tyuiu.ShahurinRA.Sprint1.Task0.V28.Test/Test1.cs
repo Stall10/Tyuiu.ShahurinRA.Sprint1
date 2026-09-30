@@ -9,7 +9,7 @@ namespace Tyuiu.ShahurinRA.Sprint1.Task0.V28.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            var res = ds.Calculate(0);
+            var res = ds.Calculate();
             Assert.AreEqual(2, res);
         }
     }
